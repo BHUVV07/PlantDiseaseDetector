@@ -1,0 +1,19 @@
+# Virtual env
+.venv/
+venv/
+env/
+
+# Data & models (do not push)
+sample_data/
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db

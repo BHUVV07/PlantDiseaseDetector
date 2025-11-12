@@ -1,0 +1,62 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "description": "Bacterial spot causes small, dark, water-soaked lesions on pepper leaves and fruit. Severe infections may lead to defoliation and yield loss.",
+    "advice": "Use certified disease-free seeds, rotate crops, and apply copper-based bactericides when needed."
+  },
+  "Pepper__bell___healthy": {
+    "description": "The pepper leaf appears healthy, with a uniform green color and no signs of lesions or wilting.",
+    "advice": "Maintain regular watering and nutrient balance to keep the plant disease-free."
+  },
+  "Potato___Early_blight": {
+    "description": "Early blight, caused by Alternaria solani, results in dark concentric-ring lesions on older leaves and can reduce tuber yield.",
+    "advice": "Remove infected leaves, avoid overhead irrigation, and apply fungicides like mancozeb or chlorothalonil as needed."
+  },
+  "Potato___Late_blight": {
+    "description": "Late blight is a severe fungal disease caused by Phytophthora infestans, leading to brown, water-soaked spots that spread rapidly.",
+    "advice": "Destroy infected plants, avoid excessive humidity, and use resistant varieties when possible."
+  },
+  "Potato___healthy": {
+    "description": "Healthy potato foliage is green, turgid, and free from any dark lesions or chlorosis.",
+    "advice": "Ensure proper crop rotation, balanced fertilization, and regular pest management for continued plant health."
+  },
+  "Tomato_Bacterial_spot": {
+    "description": "Bacterial spot on tomatoes causes small, dark brown lesions on leaves, stems, and fruit surfaces.",
+    "advice": "Avoid working with wet plants, use copper sprays, and practice field sanitation between seasons."
+  },
+  "Tomato_Early_blight": {
+    "description": "Early blight causes brown concentric-ring lesions that begin on older leaves and can defoliate plants under humid conditions.",
+    "advice": "Remove affected leaves, avoid leaf wetness, and apply protective fungicides preventively."
+  },
+  "Tomato_Late_blight": {
+    "description": "Late blight forms dark, greasy patches on tomato leaves and fruit, often with white fungal growth on the underside.",
+    "advice": "Avoid overhead watering, improve air circulation, and use resistant cultivars or fungicide treatments."
+  },
+  "Tomato_Leaf_Mold": {
+    "description": "Leaf mold appears as pale yellow patches on the upper leaf surface with olive-green mold on the underside.",
+    "advice": "Reduce humidity in greenhouses, prune lower leaves, and ensure good airflow. Use fungicides if needed."
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "description": "Septoria leaf spot produces numerous small, circular lesions with dark borders and gray centers on lower leaves.",
+    "advice": "Remove infected leaves, avoid wet foliage, and use a preventive fungicide program."
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "description": "Spider mite infestations lead to fine stippling, yellowing, and webbing on the undersides of leaves.",
+    "advice": "Increase humidity, wash leaves, and use miticides or neem oil sprays as necessary."
+  },
+  "Tomato__Target_Spot": {
+    "description": "Target spot causes circular lesions with concentric rings and can lead to premature leaf drop.",
+    "advice": "Remove infected plant material, avoid dense planting, and apply fungicides for control."
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "description": "This viral disease causes yellowing and curling of leaves, stunted growth, and reduced fruit production.",
+    "advice": "Control whiteflies (the vector), remove infected plants, and use virus-resistant tomato varieties."
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "description": "The mosaic virus causes mottled, light, and dark green patterns on leaves and may distort fruit shape.",
+    "advice": "Avoid tobacco handling near plants, sterilize tools, and use resistant cultivars."
+  },
+  "Tomato_healthy": {
+    "description": "The tomato leaf is healthy, uniformly green, and free from visible disease symptoms.",
+    "advice": "Maintain balanced fertilization, regular watering, and pest monitoring for ongoing plant health."
+  }
+}
