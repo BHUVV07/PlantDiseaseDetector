@@ -24,9 +24,4 @@ It contains training instructions, a Streamlit app for uploading a random leaf i
 - The scaffold uses classical machine learning (RandomForest / SVM) rather than heavy CNN training. This is suitable for modest hardware.
 - The app expects a trained `model.pkl` in the project root. If not present, the app will show instructions for training.
 
----
-If you want, I can now:
-- (A) Include a small dummy `model.pkl` trained on synthetic data so the app runs immediately for demonstration, or
-- (B) Keep only scaffolding and let you train on full PlantVillage locally (recommended for real accuracy).
 
-Tell me which option you prefer. 
